@@ -1,0 +1,23 @@
+{
+  "name": "fall-2018-week-7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbellingar/fall-2018-week-7.git"
+  },
+  "author": "Kyle B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbellingar/fall-2018-week-7/issues"
+  },
+  "homepage": "https://github.com/kbellingar/fall-2018-week-7#readme"
+}
